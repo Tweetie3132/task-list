@@ -18,9 +18,9 @@ A simple Node.js task list app with a crazy UI.
   npm install
   ```
 4. **Run the app**
-   ```
-   node server.js
-   ```
-5. Go to:
+  ```
+  node server.js
+  ```
+6. Go to:
    http://localhost
 (The port is set to 80 by default; you can change it in server.js)
