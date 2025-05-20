@@ -17,7 +17,7 @@ A simple Node.js task list app with a crazy UI.
   ```
   npm install
   ```
-4. Run the app
+4. **Run the app**
    ```
    node server.js
    ```
